@@ -8,6 +8,7 @@ struct _GdkPixbufSimpleAnimClass {};
 #define GLIB_DISABLE_DEPRECATION_WARNINGS
 #include <unistd.h>
 #include <termios.h>
+#include <sys/types.h>
 #include <gdk-pixbuf/gdk-pixbuf.h>
 #include <gdk-pixbuf/gdk-pixbuf-loader.h>
 #include <gdk-pixbuf/gdk-pixbuf-marshal.h>
